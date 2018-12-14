@@ -1,0 +1,24 @@
+.fc th{
+    padding: 10px 0px;
+    vertical-align: middle;
+    background: #f2f2f2;
+}
+
+header{
+    background-color: rgb(162, 255, 240);
+    width: 100%;
+    min-height: 70px ;
+}
+
+nav{
+    width: 30%;
+}
+
+#cal{
+    vertical-align: right;
+}
+
+.fc td{
+    margin-left: 40px;
+    margin-right: 40px;
+}
